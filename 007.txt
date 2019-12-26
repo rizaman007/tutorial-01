@@ -2,4 +2,4 @@ NO.REG	: 007
 Nama	: RMN
 Jurusan	: NEXTG SE
 Angkatan: 2019
-Github
+Complete
